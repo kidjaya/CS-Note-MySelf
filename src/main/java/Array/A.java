@@ -10,5 +10,6 @@ public class A {
         for (Integer integer : a) {
             System.out.println(integer);
         }
+        System.out.println("6");
     }
 }
